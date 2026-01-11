@@ -186,7 +186,7 @@ document.addEventListener('DOMContentLoaded', async () => {
    }
    p('CPU Threads', navigator.hardwareConcurrency);
    p('Available Browser Memory', typeof window.performance.memory != 'undefined' ? Math.round(window.performance.memory.jsHeapSizeLimit / 1024 / 1024) + 'MB' : null);
-   p('https://creeperita104.is-a.dev/')
+   p('https://priyanshu.evils.in')
    // Stop the music after the crawl ends
 
    function fadeOut(audioElement, duration) {
